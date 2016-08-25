@@ -4,16 +4,21 @@
 	padding-right: 0%;
 }
 
+nav{
+	padding-left: 5%;
+}
 *{
 	font-family: 'Montserrat', sans-serif;
 }
-nav div{
+.navbar-inverse{
 	background-color: #1D0048;
 }
 nav ul li{
 	display: inline-block;
 	color: #720750;
 	font-weight: bold;
+	padding-right: 5%;
+
 }
 .bg-comu{
 		background-image: url("../img/pink.jpg");
@@ -38,4 +43,42 @@ h1{
 .nuesobs{
 	background-color: #BD538D;
 	color: white;
+}
+.mejoramos{
+	background-color: #1D0048;
+	color: white;
+}
+.blue{
+	color: #1D0048;
+}
+.hr-w{
+	width: 5%;
+	border: solid white 2px;
+}
+.bg-cian{
+	background-color: #CFE2F3;
+}
+.bg-white{
+	background-color: A2D3FF;
+}
+.bg-pink{
+	background-color: #F4CCCC;
+}
+.img-redon{
+	border-radius: 100%;
+	width: 70%;
+	height: 250px;
+}
+.tex-alig-jus{
+	text-align: justify;
+}
+
+.img-red2{
+	width: 100%;
+	border-radius: 100px;
+	height: 170px;
+
+}
+.bg-azulf{
+	background-color: #1D0048;
 }
