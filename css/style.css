@@ -1,0 +1,41 @@
+
+.container-fluid{
+	padding-left: 0%;
+	padding-right: 0%;
+}
+
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+nav div{
+	background-color: #1D0048;
+}
+nav ul li{
+	display: inline-block;
+	color: #720750;
+	font-weight: bold;
+}
+.bg-comu{
+		background-image: url("../img/pink.jpg");
+		width: 100%;
+		background-size: cover;
+
+}
+.text-white{
+	color: white;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+h1{
+	padding:0px;
+	margin: 0px;
+	text-transform: uppercase;
+}
+.nuesobs{
+	background-color: #BD538D;
+	color: white;
+}
